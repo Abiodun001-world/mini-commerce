@@ -32,7 +32,7 @@ A simple e-commerce prototype built with Next.js 14, React Query, Zustand, and T
 
 3. Open [http://localhost:3000](http://localhost:3000)
 
-4. Live demo available at [Mini-Commerce Demo](https://mini-commerce.vercel.app)
+4. Live demo available at [Mini-Commerce Demo](https://mini-commerce-mu.vercel.app/)
 
 ## Project Structure
 
