@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "slug": "wireless-headphones",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 5,
+    "reviews": 128
+  },
+  {
+    "id": 2,
+    "name": "Cotton T-Shirt",
+    "slug": "cotton-t-shirt",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Comfortable organic cotton t-shirt available in multiple colors.",
+    "category": "Clothing",
+    "inStock": true,
+    "rating": 4.2,
+    "reviews": 89
+  },
+  {
+    "id": 3,
+    "name": "Water Bottle",
+    "slug": "water-bottle",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Stainless steel water bottle that keeps drinks cold for 24 hours.",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 256
+  },
+  {
+    "id": 4,
+    "name": "Office Chair",
+    "slug": "office-chair",
+    "price": 299.99,
+    "image": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Ergonomic office chair with lumbar support and adjustable height.",
+    "category": "Furniture",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 92
+  },
+  {
+    "id": 5,
+    "name": "Fitness Watch",
+    "slug": "fitness-watch",
+    "price": 149.99,
+    "image": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Smart fitness tracker with heart rate monitoring and GPS.",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 178
+  },
+  {
+    "id": 6,
+    "name": "Coffee Mug Set",
+    "slug": "coffee-mug-set",
+    "price": 34.99,
+    "image": "https://images.pexels.com/photos/851555/pexels-photo-851555.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Set of 4 ceramic coffee mugs. Microwave and dishwasher safe.",
+    "category": "Kitchen",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 67
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "slug": "yoga-mat",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Premium yoga mat with superior grip and cushioning.",
+    "category": "Sports",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 134
+  },
+  {
+    "id": 8,
+    "name": "Hand holding Bag",
+    "slug": "",
+    "price": 59.99,
+    "image": "https://images.pexels.com/photos/5650019/pexels-photo-5650019.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "High-quality hand holding bag.",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.1,
+    "reviews": 95
+  }
+]
